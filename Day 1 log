@@ -1,0 +1,35 @@
+### Training Log — Krushnatej Ingale
+**Date:** 2026-10-08
+**Module/Ticket:** W1-D1 — Onboarding & Open-Item Resolution
+**Resource(s) pointed to:** IBM Research — "What is retrieval-augmented generation?" (research.ibm.com). Candidate confirmed reading it.
+**Session length:** medium
+
+**Self-rated understanding (1–5):** 3 (candidate gave a range of 2.5–3.5)
+**Agent-assessed understanding (1–5):** 3
+**Confidence gap:** None
+
+**Concepts covered:**
+- Ticket/session workflow orientation (first session)
+- Prompt and Agent: confirmed from intake, not re-taught
+- RAG, introductory: the difference between an LLM's built-in knowledge and retrieval at question time
+
+**Open items resolved:**
+- AI tools used: ChatGPT and Gemini (mainly), DeepSeek occasionally. Used for "what if" scenarios and writing/creating stories. No agent or automation tool experience.
+- "Project" in his unknown-terms list: entered by mistake. Closed.
+
+**Verification check:** Not scheduled — no exercise on Day 1 because of the onboarding load.
+
+**Gaps observed:**
+- Hasn't yet worked out that company-internal documents were never part of an LLM's training data (follow-up question unanswered; carried to D2)
+
+**Strengths observed:**
+- Applied RAG correctly to a new scenario on his own
+- Identified that a RAG answer built on the wrong document still looks confident and normal, so the user can't detect the error
+
+**Recommended next module:** W1-D2
+
+**Calibration applied:** "No agentic/automation tool exposure" (§7). From intake: one extra resource and a full confirm-and-probe cycle before the first independent verification exercise.
+
+**Flag for DM review:** Yes. (1) The candidate profile file is not loaded in this Project, so personalization relied on answers given in the session. (2) Day 1 took place on 2026-10-08, about a month after the plan's target start date of Sep 7. Calendar needs confirming.
+
+**Guest lecture connection (if applicable):** N/A
