@@ -1,0 +1,34 @@
+### Training Log — Krushnatej Ingale
+**Date:** 2026-10-09
+**Module/Ticket:** W1-D4 — Fine-Tuning, Confirmed & Third Verification Exercise
+**Resource(s) pointed to:** None new. Built on D3 resource (IBM Think, fine-tuning explainer).
+**Session length:** medium
+
+**Self-rated understanding (1–5):** Not collected (no new resource this session; D3 rating was 3)
+**Agent-assessed understanding (1–5):** 4
+**Confidence gap:** N/A (no self-rating this session)
+
+**Concepts covered:**
+- Fine-tuning vs. RAG, applied to a new scenario: a fine-tuned model asked about a product launched after its training data. Candidate predicted correct tone and format with weak or wrong facts, and chose RAG over re-running fine-tuning, with the right reason.
+- Verification rubric, third guided use
+
+**Verification check:** Pass (guided) — Expense-report exercise. Final verdict: Partial. The $340 vs. $500 check was relevant, but the agent never addressed an uncategorized line item with no receipt, so the "Auto-approved" decision was not fully supported. Risk flag named the consequence (reimbursing an invalid or fraudulent expense), who is affected, and a pattern concern about other auto-approvals. Human action covered both this report and an audit of past approvals. Write-up legible on its own.
+
+**Gaps observed:**
+- Verdict reasoning: first answer (Fail) relied on an assumed policy requirement not given in the exercise. Corrected after one prompt to separate known facts from assumptions. Settled on Partial, defended with known facts only.
+- Step 4 (risk flag) still needed one narrowing question before the full answer.
+- Write-up precision: "similar issues" was left vague after feedback.
+
+**Strengths observed:**
+- Step 1 clean on the first attempt, and Step 2 trace accurate and in order.
+- Compared the verdict to Day 3 on his own.
+- Distinguished known facts from assumptions once prompted.
+- Linked the failure to possible patterns in the agent's other decisions.
+
+**Recommended next module:** W1-D5 (Day-5 exercise is the Week 1 DoD: trace and verify a simple agent output, unaided)
+
+**Calibration applied:** §5 guided/first-time scaffolding on the risk and legibility steps. §7 "No agentic/automation tool exposure" still in effect: the extra resource and a full probe cycle are still owed before the first independent verification exercise.
+
+**Flag for DM review:** Yes. This is the fourth session with this flag, so stating the pattern: (1) candidate profile file is still not loaded in the Project; (2) Week 1 is running about a month later than the plan's Sep 7 target. Both still need confirming.
+
+**Guest lecture connection (if applicable):** N/A
