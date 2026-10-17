@@ -1,0 +1,28 @@
+### Training Log — Krushnatej Ingale
+**Date:** 2026-10-08
+**Module/Ticket:** W1-D2 — RAG, Confirmed & First Verification Exercise
+**Resource(s) pointed to:** None new. Built on D1 resource (IBM Research, RAG explainer).
+**Session length:** medium
+
+**Self-rated understanding (1–5):** Not collected (no new resource this session; D1 rating was 3)
+**Agent-assessed understanding (1–5):** 4
+**Confidence gap:** N/A (no self-rating this session)
+
+**Concepts covered:**
+- RAG: an LLM's built-in knowledge excludes both new information and private information. Candidate reasoned this out himself, including that a public document might have been in training data.
+- 5-part verification rubric: first use, guided
+
+**Verification check:** Pass (guided) — Meeting-notes summary exercise. Verdict: Partial, correctly reasoned: the literal instruction was met, but a hard deadline was dropped while the agent reported "complete." Risk flag extended to possible further omissions and named owners and deadlines as things to check against the source. Write-up legible on its own.
+
+**Gaps observed:**
+- Step 1: first attempt folded judgment into the goal restatement. Corrected once pointed out.
+- Step 4: reached a full risk flag with two directional nudges. Not yet independent.
+- Write-up precision: minor ambiguity (did not specify the deadline applied to one item).
+
+**Recommended next module:** W1-D3
+
+**Calibration applied:** §5 guided/first-time scaffolding on the risk and legibility steps. §7 "No agentic/automation tool exposure" still in effect: one extra resource and a full probe cycle are owed before the first independent verification exercise.
+
+**Flag for DM review:** Yes. This is the second session with this flag. (1) Candidate profile file is still not loaded in the Project. (2) Calendar: Week 1 is running about a month later than the plan's Sep 7 target.
+
+**Guest lecture connection (if applicable):** N/A
