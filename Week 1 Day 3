@@ -1,0 +1,33 @@
+### Training Log — Krushnatej Ingale
+**Date:** 2026-10-09
+**Module/Ticket:** W1-D3 — Fine-Tuning, From Zero
+**Resource(s) pointed to:** IBM Think — "What is fine-tuning?" (ibm.com/think/topics/fine-tuning). Candidate confirmed reading it.
+**Session length:** medium
+
+**Self-rated understanding (1–5):** 3 (candidate gave a range of 2.5–3.5)
+**Agent-assessed understanding (1–5):** 4
+**Confidence gap:** None (difference of 1, within threshold)
+
+**Concepts covered:**
+- Fine-tuning: further training a pre-trained model to shape its behavior (tone, format)
+- Fine-tuning vs. RAG: fine-tuning for behavior, RAG for current or private knowledge. Candidate applied both correctly to a new scenario.
+- System instructions as a third option. Candidate raised it himself and reasoned that fine-tuning may become the better choice at scale, but system instructions are still useful for essential rules and both should be tested.
+
+**Verification check:** Pass (guided) — Password-reset exercise. Correct verdict of Fail: the agent approved on a name match alone and ignored the unmatched email address, so the decision was unsupported. Risk flag named the consequence (unauthorized access) and who is affected, then extended to possible earlier approvals made the same way, with a concrete human action (review past approvals). Write-up legible on its own.
+
+**Gaps observed:**
+- On the fine-tuning vs. RAG probe, first answered with a third option and skipped the comparison asked for; reached the comparison after one redirect.
+- Step 4 (risk flag) needed one narrowing question before the full answer. Improved from Day 2, not yet fully independent.
+
+**Strengths observed:**
+- Step 1 restated the goal cleanly on the first attempt (corrected from Day 2).
+- Reasoned that the failure may reflect a pattern in the agent's other decisions.
+- Distinguished Partial (Day 2) from Fail (today).
+
+**Recommended next module:** W1-D4
+
+**Calibration applied:** §5 guided/first-time scaffolding on the risk and legibility steps. §7 "No agentic/automation tool exposure" still in effect: the extra resource and a full probe cycle are still owed before the first independent verification exercise.
+
+**Flag for DM review:** Yes. This is the third session with this flag, so stating the pattern: (1) candidate profile file is still not loaded in the Project; (2) Week 1 is running about a month later than the plan's Sep 7 target. Calendar and profile loading both need confirming.
+
+**Guest lecture connection (if applicable):** N/A
