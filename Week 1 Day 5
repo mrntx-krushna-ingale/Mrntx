@@ -1,0 +1,32 @@
+### Training Log — Krushnatej Ingale
+**Date:** 2026-10-14
+**Module/Ticket:** W1-D5 — Fourth Verification Exercise (Week 1 gate)
+**Resource(s) pointed to:** Anthropic — "Building Effective Agents" (anthropic.com/research/building-effective-agents). Candidate confirmed reading it.
+**Session length:** medium
+
+**Self-rated understanding (1–5):** 3 (candidate gave a range of 2.5–3.5)
+**Agent-assessed understanding (1–5):** 4
+**Confidence gap:** None
+
+**Concepts covered:**
+- Workflow vs. agent, applied to two new scenarios. Candidate also stated that checking an agent means reviewing its choices (actions, tools used, whether the task was resolved) as well as its final answer.
+
+**Verification check:** Pass (unaided) — Job-eligibility exercise. All five rubric parts submitted in one response with no scaffolding. Verdict: Partial, defended on known facts only (the internship's eligibility under the employer's rules is unknown). Risk flag named the affected parties and consequence, a human check, and a review of the agent's other eligibility decisions. Write-up legible on its own.
+
+**Gaps observed:**
+- Trace presented the agent's process as visible ("considered the resume"); the output shows only a conclusion.
+- Verdict reason did not state the arithmetic (2 yrs 10 mo is 2 months short; 3 yrs 4 mo only if the internship is added).
+
+**Strengths observed:**
+- Completed all five parts unaided on the first attempt.
+- Applied the known-facts-vs-assumed-policy distinction from Day 4 without a prompt.
+- Linked a single failure to possible patterns in the agent's other decisions.
+
+**Recommended next module:** W2-D1
+
+**Calibration applied:** §7 "No agentic/automation tool exposure": the extra resource (Anthropic essay) and a full confirm-and-probe cycle were completed before this unaided exercise. Rule now satisfied.
+
+**Flag for DM review:** Yes. This is the fifth session with this flag, so stating the pattern: (1) the candidate profile file is still not loaded in this Project; (2) Week 1 ran about five weeks past the plan's Sep 7 target. New: (3) the ticket refers to krushnatej-ingale-plan.md, which is not loaded in this Project, so Week 2 sequencing could not be checked against it.
+**Note per ticket:** Foundations continues into Week 2 and is not complete until that week's Day 5 capstone, per krushnatej-ingale-plan.md.
+
+**Guest lecture connection (if applicable):** N/A
